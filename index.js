@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by Voskey
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @voskey
+//Telegram: https://t.me/voskey
+//GitHub: @voskey
+//WhatsApp: https://https://whatsapp.com/channel/0029VaFSC1RGE56irWiKvw32
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@voskey
 
 const {
    spawn
